@@ -32,6 +32,7 @@ export function AddItemForm(props: AddItemFormPropsType) {
     }
 
     return <div>
+        <div></div>
         <TextField
             variant={"outlined"}
             label={'Type value'}
